@@ -1,0 +1,7 @@
+Algorithm,Success Rate
+Decision Tree,0.99495
+Naive Bayes,0.67677
+SVM,0.67929
+KNN,0.62879
+Random Forest,0.99242
+Artificial Neural Network,0.75505
